@@ -1,5 +1,6 @@
 package hw1;
 
+//ok
 public class HelloWorld {
     public static void main(String[] args) {
 

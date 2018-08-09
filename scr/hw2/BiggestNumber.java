@@ -2,6 +2,7 @@ package hw2;
 
 import java.util.Scanner;
 
+// šeit ir arī loģikas kļūda
 public class BiggestNumber {
     public static void main(String[] args) {
 
