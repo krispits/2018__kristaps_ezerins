@@ -2,6 +2,7 @@ package hw3For;
 
 import java.util.Scanner;
 
+//klašu nosaukumi ir jāraksta angliski
 public class SkaitluSumma {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
